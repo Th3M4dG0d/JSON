@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Goku",
+      "image": "https://i2.wp.com/www.bitme.gg/wp-content/uploads/2019/10/Fanaticos-de-Dragon-Ball-celebran-a-la-actriz-de-doblaje-de-Goku.jpg?fit=1280%2C720&ssl=1"
+    },
+     {
+      "id": 2,
+      "title": "Naruto",
+      "image": "https://vignette.wikia.nocookie.net/naruto/images/a/a2/Naruto_Uzumaki_Parte_II_Anime.png/revision/latest?cb=20161013194453&path-prefix=es"
+    },
+     {
+      "id": 3,
+      "title": "Saitama",
+      "image": "https://vignette.wikia.nocookie.net/onepunchman/images/c/c0/Anime_-_Saitama.jpg/revision/latest?cb=20200308230733&path-prefix=es"
+    },
+     {
+      "id": 4,
+      "title": "Doraimon",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  {
+    "name": "JsonPlaceHolder"
+  },
+  {
+    "name": "APi Rest"
+  }
+}
